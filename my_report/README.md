@@ -38,7 +38,7 @@
 ![Screenshot (204)](https://user-images.githubusercontent.com/101328993/227305502-d4712022-14c4-48f0-b72c-395d1c29667a.png)
 ![Screenshot (205)](https://user-images.githubusercontent.com/101328993/227305743-f401f539-70bf-4336-808c-67ad624e6702.png)
 ![Screenshot (206)](https://user-images.githubusercontent.com/101328993/227305764-0304f36e-8126-4e27-8cf5-5b4d20f0b64d.png)
-
+Τα βιντεο κανονικά έχουν μαγαλυτερη διαρκεια απλώς το unity δεν μου επετρεπε να ανεβασώ αρχειο πανω απο 10mb οποτε τα εκανα πιο μικρά και μείωσα την ποιότητά τους
 
 # 2nd Deliverable
 
