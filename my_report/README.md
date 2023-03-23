@@ -2,7 +2,7 @@
 
 ### Σπύρος Δουλαβέρης
 ### dpsd19033
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/sdoulaveris
 ### Digital-Storytelling-Individual-Assignment: xxx
 
 # Introduction
